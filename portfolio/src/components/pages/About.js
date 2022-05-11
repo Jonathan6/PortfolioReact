@@ -1,4 +1,4 @@
-function About({ setCurrentPage }) {
+function About() {
     return (
         <section>
             <p>
